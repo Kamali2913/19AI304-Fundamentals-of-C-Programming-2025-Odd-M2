@@ -252,6 +252,7 @@ Thus, the program was implemented and executed successfully, and the required ou
   Stop
 # Program:
 <img width="821" height="520" alt="image" src="https://github.com/user-attachments/assets/4bed858a-ea8f-4054-a1dc-785ec233e61c" />
+
 # Output:
 <img width="823" height="437" alt="image" src="https://github.com/user-attachments/assets/dc0ac1e3-b91b-47f4-906c-1617115831b0" />
 
